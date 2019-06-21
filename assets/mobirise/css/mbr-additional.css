@@ -1323,7 +1323,7 @@ body {
   align-items: center;
   transition: all 0.3s;
   transition-delay: 0s;
-  background-image: url("../../../assets/images/image-2000x1125.jpg");
+  background-image: url("../../../assets/images/fb-img-1542030383318-960x959.jpg");
   background-position: center;
   background-size: cover;
   z-index: 3;
@@ -1434,10 +1434,11 @@ body {
   color: #333333;
 }
 .cid-ru0ofNwZKz .box-title2 {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-ru0ofNwZKz .box-text2 {
-  color: #333333;
+  color: #ffffff;
+  text-align: left;
 }
 .cid-ru0ofNwZKz .mbr-text,
 .cid-ru0ofNwZKz .mbr-section-btn {
@@ -1969,15 +1970,15 @@ body {
 #instagram-feed-block-z .inst__title {
   color: #ffbc00;
 }
-.cid-rsNDbB5Y95 {
+.cid-ru2kKpxLkV {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rsNDbB5Y95 a:link {
+.cid-ru2kKpxLkV a:link {
   text-decoration: none;
 }
-.cid-rsNDbB5Y95 .icon-transition span {
+.cid-ru2kKpxLkV .icon-transition span {
   padding: 0.1rem 0.9rem;
   border-radius: 50%;
   color: #ffffff;
@@ -1990,31 +1991,31 @@ body {
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
-.cid-rsNDbB5Y95 .icon-transition span:hover {
+.cid-ru2kKpxLkV .icon-transition span:hover {
   background-color: #ffbc00;
 }
-.cid-rsNDbB5Y95 .social-media ul {
+.cid-ru2kKpxLkV .social-media ul {
   margin: 0;
   padding: 0;
   margin-bottom: 8px;
 }
-.cid-rsNDbB5Y95 .social-media ul li {
+.cid-ru2kKpxLkV .social-media ul li {
   padding: 4px;
   display: inline-block;
 }
-.cid-rsNDbB5Y95 .foot-menu {
+.cid-ru2kKpxLkV .foot-menu {
   -webkit-flex-direction: row;
   flex-direction: row;
   margin: 0;
   margin-bottom: 8px;
   padding: .6em 0;
 }
-.cid-rsNDbB5Y95 .foot-menu > li {
+.cid-ru2kKpxLkV .foot-menu > li {
   font-size: 14px;
   padding: 0;
   display: inline-block;
 }
-.cid-rsNDbB5Y95 .foot-menu > li .rhombus {
+.cid-ru2kKpxLkV .foot-menu > li .rhombus {
   width: 0;
   height: 0;
   right: 4px;
@@ -2023,7 +2024,7 @@ body {
   position: relative;
   top: -19px;
 }
-.cid-rsNDbB5Y95 .foot-menu > li .rhombus::after {
+.cid-ru2kKpxLkV .foot-menu > li .rhombus::after {
   width: 0;
   height: 0;
   content: '';
@@ -2033,26 +2034,26 @@ body {
   border: 4px solid transparent;
   border-top-color: #444444;
 }
-.cid-rsNDbB5Y95 .foot-menu li a {
+.cid-ru2kKpxLkV .foot-menu li a {
   font-family: 'OpenSans', sans-serif;
   display: inline-block;
   letter-spacing: 2px;
   padding: 0 10px;
 }
-.cid-rsNDbB5Y95 .plan-title,
-.cid-rsNDbB5Y95 .text-letter {
+.cid-ru2kKpxLkV .plan-title,
+.cid-ru2kKpxLkV .text-letter {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   font-weight: 600;
 }
-.cid-rsNDbB5Y95 .plan-title {
+.cid-ru2kKpxLkV .plan-title {
   color: #444444;
 }
 @media (max-width: 767px) {
-  .cid-rsNDbB5Y95 .foot-menu {
+  .cid-ru2kKpxLkV .foot-menu {
     padding: 15px 1rem;
   }
 }
-.cid-rsNDbB5Y95 .mbr-section-title span {
+.cid-ru2kKpxLkV .mbr-section-title span {
   color: #ffbc00;
 }
