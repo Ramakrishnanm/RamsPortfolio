@@ -1042,7 +1042,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-ru02nHNfnT button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1179,6 +1179,7 @@ body {
 .cid-ru00PLpsWR .mbr-section-text,
 .cid-ru00PLpsWR .mbr-section-btn {
   color: #efefef;
+  text-align: left;
 }
 .cid-ru0odLsnaC {
   padding-top: 0px;
